@@ -51,7 +51,7 @@
       <td colspan="2" align="center">
         <strong>Versace/strong> - Maintainer & Lead Developer
         <br />
-        <img src="https://lanyard.cnrad.dev/api/1319546861203361885?theme=light" alt="Versace 1337">
+        <img src="" alt="Versace 1337">
       </td>
     </tr>
   </table>
